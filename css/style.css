@@ -1,0 +1,16 @@
+nav {
+}
+
+.menu {
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 40px;
+    background-color: darkblue;
+}
+
+.menu a {
+    text-transform: uppercase;
+}
