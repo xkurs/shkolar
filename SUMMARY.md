@@ -2,15 +2,6 @@
 
 * [🏫 Школа](README.md)
 
-## Информатика
-
-* [🐍 Python](informatika/python/README.md)
-  * [Turtle](https://xkurs.notion.site/xkurs/9f05bc90d8294b2f97fb29c72c54b660?v=5b88304bee0b4fb093133b1082a54d81)
-  * [Школа 179](https://server.179.ru/wiki/?page=Informatika/Arxiv/20\_23/9B)
-* [💻 КЕГЭ](informatika/kege/README.md)
-  * [КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
-  * [YouTube](informatika/kege/youtube.md)
-
 ## Физика
 
 * [📗 9 класс](fizika/9-klass/README.md)
@@ -25,3 +16,12 @@
   * [Колебания и волны. Оптика. Физика атома и ядра](https://www.youtube.com/@pvictor54/playlists?shelf\_id=5\&sort=dd\&view=50)
   * [Механические колебания](fizika/11-klass/mekhanicheskie-kolebaniya.md)
   * [Строение солнечной системы](fizika/11-klass/stroenie-solnechnoi-sistemy.md)
+
+## Информатика
+
+* [🐍 Python](informatika/python/README.md)
+  * [Turtle](https://xkurs.notion.site/xkurs/9f05bc90d8294b2f97fb29c72c54b660?v=5b88304bee0b4fb093133b1082a54d81)
+  * [Школа 179](https://server.179.ru/wiki/?page=Informatika/Arxiv/20\_23/9B)
+* [💻 КЕГЭ](informatika/kege/README.md)
+  * [КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
+  * [YouTube](informatika/kege/youtube.md)
