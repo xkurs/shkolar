@@ -6,6 +6,10 @@ description: Физика-10
 
 
 
+{% hint style="info" %}
+Контрольная работа
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}

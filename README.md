@@ -4,7 +4,11 @@ description: Предметы, классы, темы
 
 # 🏫 Школа
 
-## Физика
+
+
+{% hint style="success" %}
+ФИЗИКА
+{% endhint %}
 
 {% content-ref url="fizika/9-klass/" %}
 [9-klass](fizika/9-klass/)
@@ -18,7 +22,11 @@ description: Предметы, классы, темы
 [11-klass](fizika/11-klass/)
 {% endcontent-ref %}
 
-## Информатика
+***
+
+{% hint style="info" %}
+ИНФОРМАТИКА
+{% endhint %}
 
 {% content-ref url="informatika/python/" %}
 [python](informatika/python/)
