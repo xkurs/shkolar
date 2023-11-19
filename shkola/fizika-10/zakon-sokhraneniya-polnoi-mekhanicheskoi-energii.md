@@ -7,11 +7,11 @@ description: Физика-10
 
 
 {% tabs %}
-{% tab title="Дано:" %}
+{% tab title="Дано" %}
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Решение: " %}
+{% tab title="Решение" %}
 #### Задача 1
 
 * $$E_п=E_к$$
@@ -22,8 +22,8 @@ description: Физика-10
 * $$E_0 = E_к+E_п$$
 {% endtab %}
 
-{% tab title="Ответ:" %}
-Не забудьте указать единицу измерения!
+{% tab title="Ответ" %}
+Кроме числового значения физической величины не забудьте указать её название и единицу измерения!
 {% endtab %}
 {% endtabs %}
 
