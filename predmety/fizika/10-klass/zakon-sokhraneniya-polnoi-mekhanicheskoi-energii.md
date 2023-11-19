@@ -10,17 +10,15 @@ description: Физика 10
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<details>
-
-<summary>Решение</summary>
-
-Задача 1:
-
+{% tabs %}
+{% tab title="Задача 1" %}
 $$E_п=E_к$$
 
-Задача 2:
+$$m_2=\alpha m$$
+{% endtab %}
 
+{% tab title="Задача 2" %}
 $$E_0 = E_к+E_п$$
-
-</details>
+{% endtab %}
+{% endtabs %}
 
