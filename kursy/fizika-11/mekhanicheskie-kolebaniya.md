@@ -1,5 +1,5 @@
 ---
-description: Физика 11
+description: Физика-11
 ---
 
 # Механические колебания
@@ -10,7 +10,7 @@ description: Физика 11
 
 {% embed url="https://youtu.be/ya06QBPiotw?list=PL1Us50cZo25nsfA_QOEoxhPUhTzHb0tIf" %}
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
