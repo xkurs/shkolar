@@ -6,22 +6,6 @@ description: Курсы
 
 
 
-{% tabs %}
-{% tab title="Физика" %}
-[9-klass](fizika/9-klass/ "mention")
-
-[10-klass](fizika/10-klass/ "mention")
-
-[11-klass](fizika/11-klass/ "mention")
-{% endtab %}
-
-{% tab title="Информатика" %}
-[python](informatika/python/ "mention")
-
-[kege](informatika/kege/ "mention")
-{% endtab %}
-{% endtabs %}
-
 ## Физика
 
 {% content-ref url="fizika/9-klass/" %}
