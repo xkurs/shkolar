@@ -1,5 +1,5 @@
 ---
-description: 11 класс
+description: Школа
 ---
 
 # 🚀 Астрономия
