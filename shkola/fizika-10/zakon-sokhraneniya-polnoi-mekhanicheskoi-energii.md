@@ -7,11 +7,11 @@ description: Физика-10
 
 
 {% tabs %}
-{% tab title="Задание" %}
+{% tab title="Дано:" %}
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Решение " %}
+{% tab title="Решение: " %}
 #### Задача 1
 
 * $$E_п=E_к$$
@@ -20,6 +20,10 @@ description: Физика-10
 #### Задача 2
 
 * $$E_0 = E_к+E_п$$
+{% endtab %}
+
+{% tab title="Ответ:" %}
+Не забудьте указать единицу измерения!
 {% endtab %}
 {% endtabs %}
 
