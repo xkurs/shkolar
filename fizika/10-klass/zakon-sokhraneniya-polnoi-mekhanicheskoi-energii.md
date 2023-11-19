@@ -6,20 +6,17 @@ description: Физика-10
 
 
 
-{% tabs %}
-{% tab title="Дано" %}
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+{% tabs %}
+{% tab title="Задача 1" %}
+$$E_п=E_к$$
+
+$$m_2=\alpha m$$
 {% endtab %}
 
-{% tab title="Решение" %}
-#### Задача 1
-
-* $$E_п=E_к$$
-* $$m_2=\alpha m$$
-
-#### Задача 2
-
-* $$E_0 = E_к+E_п$$
+{% tab title="Задача 2" %}
+$$E_0 = E_к+E_п$$
 {% endtab %}
 
 {% tab title="Ответ" %}
