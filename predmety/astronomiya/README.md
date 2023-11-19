@@ -1,5 +1,5 @@
 ---
-description: Школа
+description: Темы
 ---
 
 # 🚀 Астрономия

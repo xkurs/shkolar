@@ -2,7 +2,7 @@
 description: КЕГЭ
 ---
 
-# 📱 YouTube
+# YouTube
 
 
 
