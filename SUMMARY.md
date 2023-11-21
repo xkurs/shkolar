@@ -5,15 +5,13 @@
 ## Физика
 
 * [📗 9 класс](fizika/9-klass/README.md)
-  * [Механика](https://www.youtube.com/@pvictor54/playlists?shelf\_id=3\&sort=dd\&view=50)
   * [Криволинейное и вращательное движение](fizika/9-klass/krivolineinoe-i-vrashatelnoe-dvizhenie.md)
 * [📒 10 класс](fizika/10-klass/README.md)
-  * [Молекулярная физика. Электричество и магнетизм](https://www.youtube.com/@pvictor54/playlists?shelf\_id=4\&sort=dd\&view=50)
   * [Работа и энергия](fizika/10-klass/rabota-i-energiya.md)
   * [Закон сохранения полной механической энергии](fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md)
+  * [Основы молекулярно-кинетической теории](fizika/10-klass/osnovy-molekulyarno-kineticheskoi-teorii.md)
 * [📕 11 класс](fizika/11-klass/README.md)
   * [Google Classroom - Доклады](https://classroom.google.com/c/NjM3MjI4ODcwMjJa?cjc=xhkse4g)
-  * [Колебания и волны. Оптика. Физика атома и ядра](https://www.youtube.com/@pvictor54/playlists?shelf\_id=5\&sort=dd\&view=50)
   * [Механические колебания](fizika/11-klass/mekhanicheskie-kolebaniya.md)
   * [Строение солнечной системы](fizika/11-klass/stroenie-solnechnoi-sistemy.md)
 
