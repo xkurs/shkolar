@@ -6,11 +6,9 @@ description: Предметы, классы, темы
 
 <details>
 
-<summary>Новости</summary>
+<summary>Links</summary>
 
-[zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md](fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md "mention")
-
-[https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii](https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii)
+Закон сохранения полной механической энергии [https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii](https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii)
 
 </details>
 
