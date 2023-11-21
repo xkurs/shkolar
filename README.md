@@ -2,9 +2,17 @@
 description: Предметы, классы, темы
 ---
 
-# 🏫 Школа
+# 📚 Курсы
 
+<details>
 
+<summary>Новости</summary>
+
+[zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md](fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md "mention")
+
+[https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii](https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii)
+
+</details>
 
 {% hint style="success" %}
 ФИЗИКА
@@ -22,8 +30,6 @@ description: Предметы, классы, темы
 [11-klass](fizika/11-klass/)
 {% endcontent-ref %}
 
-***
-
 {% hint style="info" %}
 ИНФОРМАТИКА
 {% endhint %}
@@ -35,4 +41,3 @@ description: Предметы, классы, темы
 {% content-ref url="informatika/kege/" %}
 [kege](informatika/kege/)
 {% endcontent-ref %}
-

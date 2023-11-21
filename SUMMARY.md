@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏫 Школа](README.md)
+* [📚 Курсы](README.md)
 
 ## Физика
 
