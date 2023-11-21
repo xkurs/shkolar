@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚 Курсы](README.md)
+* [📚 Классы](README.md)
 
 ## Физика
 
