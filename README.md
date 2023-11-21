@@ -4,14 +4,6 @@ description: Предметы, классы, темы
 
 # 📚 Курсы
 
-<details>
-
-<summary>Links</summary>
-
-Закон сохранения полной механической энергии [https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii](https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii)
-
-</details>
-
 {% hint style="success" %}
 ФИЗИКА
 {% endhint %}
@@ -39,3 +31,11 @@ description: Предметы, классы, темы
 {% content-ref url="informatika/kege/" %}
 [kege](informatika/kege/)
 {% endcontent-ref %}
+
+<details>
+
+<summary>Links</summary>
+
+Закон сохранения полной механической энергии [https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii](https://xkurs.gitbook.io/start/fizika/10-klass/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii)
+
+</details>
