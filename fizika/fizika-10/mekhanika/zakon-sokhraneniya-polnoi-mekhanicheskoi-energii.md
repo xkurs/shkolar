@@ -1,16 +1,14 @@
 ---
-description: Физика-10
+description: Механика
 ---
 
 # Закон сохранения полной механической энергии
-
-
 
 {% hint style="info" %}
 Контрольная работа
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Задача 1" %}
@@ -29,4 +27,3 @@ $$E_0 = E_к+E_п$$
 {% endtabs %}
 
 {% embed url="https://youtu.be/dPS3_jE3u2k?list=PL1Us50cZo25l4V8jLihXaEXUHzvq6dXNp" %}
-
