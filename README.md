@@ -1,31 +1,35 @@
 ---
-description: Физика, информатика
+description: Предметы, классы, темы
 ---
 
 # 📚 Курсы
 
-{% hint style="info" %}
-Оглавление
+{% hint style="success" %}
+ФИЗИКА
 {% endhint %}
 
-{% content-ref url="oglavlenie/fizika-9/" %}
-[fizika-9](oglavlenie/fizika-9/)
+{% content-ref url="fizika/fizika-9/" %}
+[fizika-9](fizika/fizika-9/)
 {% endcontent-ref %}
 
-{% content-ref url="oglavlenie/fizika-10/" %}
-[fizika-10](oglavlenie/fizika-10/)
+{% content-ref url="fizika/fizika-10/" %}
+[fizika-10](fizika/fizika-10/)
 {% endcontent-ref %}
 
-{% content-ref url="oglavlenie/fizika-11/" %}
-[fizika-11](oglavlenie/fizika-11/)
+{% content-ref url="fizika/fizika-11/" %}
+[fizika-11](fizika/fizika-11/)
 {% endcontent-ref %}
 
-{% content-ref url="oglavlenie/python/" %}
-[python](oglavlenie/python/)
+{% hint style="info" %}
+ИНФОРМАТИКА
+{% endhint %}
+
+{% content-ref url="informatika/python/" %}
+[python](informatika/python/)
 {% endcontent-ref %}
 
-{% content-ref url="oglavlenie/kege/" %}
-[kege](oglavlenie/kege/)
+{% content-ref url="informatika/kege/" %}
+[kege](informatika/kege/)
 {% endcontent-ref %}
 
 <details>
