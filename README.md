@@ -8,16 +8,16 @@ description: Предметы, классы, темы
 ФИЗИКА
 {% endhint %}
 
-{% content-ref url="fizika/fizika-9/" %}
-[fizika-9](fizika/fizika-9/)
+{% content-ref url="fizika/9-klass/" %}
+[9-klass](fizika/9-klass/)
 {% endcontent-ref %}
 
-{% content-ref url="fizika/fizika-10/" %}
-[fizika-10](fizika/fizika-10/)
+{% content-ref url="fizika/10-klass/" %}
+[10-klass](fizika/10-klass/)
 {% endcontent-ref %}
 
-{% content-ref url="fizika/fizika-11/" %}
-[fizika-11](fizika/fizika-11/)
+{% content-ref url="fizika/11-klass/" %}
+[11-klass](fizika/11-klass/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
