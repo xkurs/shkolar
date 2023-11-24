@@ -23,6 +23,7 @@
   * [1⃣ Основы электродинамики (продолжение)](fizika/11-klass/osnovy-elektrodinamiki-prodolzhenie.md)
   * [2⃣ Колебания и волны](fizika/11-klass/kolebaniya-i-volny/README.md)
     * [Механические колебания](fizika/11-klass/kolebaniya-i-volny/mekhanicheskie-kolebaniya.md)
+    * [Электромагнитные колебания](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md)
   * [3⃣ Основы специальной теории относительности](fizika/11-klass/osnovy-specialnoi-teorii-otnositelnosti.md)
   * [4⃣ Квантовая физика](fizika/11-klass/kvantovaya-fizika.md)
   * [🚀 Астрономия](fizika/11-klass/astronomiya/README.md)
