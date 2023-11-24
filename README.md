@@ -8,7 +8,9 @@ description: Предметы, классы, темы
 
 <summary>Новости</summary>
 
-* [rabota-i-moshnost.md](fizika/9-klass/mekhanicheskie-yavleniya/rabota-i-moshnost.md "mention") - Физика-9
+[rabota-i-moshnost.md](fizika/9-klass/mekhanicheskie-yavleniya/rabota-i-moshnost.md "mention")
+
+[elektromagnitnye-kolebaniya.md](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md "mention")
 
 </details>
 
