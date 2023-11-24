@@ -38,3 +38,10 @@
 * [💻 КЕГЭ](informatika/kege/README.md)
   * [КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
   * [YouTube](informatika/kege/youtube.md)
+
+## Библиотека
+
+* [📘 Links](biblioteka/links/README.md)
+  * [Павел ВИКТОР](https://www.youtube.com/c/pvictor54)
+  * [Расписание Notion](https://www.notion.so/xkurs/ce5c63f2a46d4e639a312d723bee2d97?v=0f80b76164bd4d6e9d4154e897c3d492\&pvs=4)
+  * [Курсы Glide](https://xkurs.glide.page/dl/courses)
