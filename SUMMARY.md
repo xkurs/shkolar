@@ -20,11 +20,14 @@
     * [Основы молекулярно-кинетической теории](fizika/10-klass/molekulyarnaya-fizika-i-termodinamika/osnovy-molekulyarno-kineticheskoi-teorii.md)
   * [3⃣ Электродинамика](fizika/10-klass/elektrodinamika.md)
 * [📕 11 класс](fizika/11-klass/README.md)
-  * [1⃣ Астрономия](fizika/11-klass/astronomiya/README.md)
-    * [Google Classroom - Доклады](https://classroom.google.com/c/NjM3MjI4ODcwMjJa?cjc=xhkse4g)
-    * [Строение солнечной системы](fizika/11-klass/astronomiya/stroenie-solnechnoi-sistemy.md)
+  * [1⃣ Основы электродинамики (продолжение)](fizika/11-klass/osnovy-elektrodinamiki-prodolzhenie.md)
   * [2⃣ Колебания и волны](fizika/11-klass/kolebaniya-i-volny/README.md)
     * [Механические колебания](fizika/11-klass/kolebaniya-i-volny/mekhanicheskie-kolebaniya.md)
+  * [3⃣ Основы специальной теории относительности](fizika/11-klass/osnovy-specialnoi-teorii-otnositelnosti.md)
+  * [4⃣ Квантовая физика](fizika/11-klass/kvantovaya-fizika.md)
+  * [🚀 Астрономия](fizika/11-klass/astronomiya/README.md)
+    * [Google Classroom - Доклады](https://classroom.google.com/c/NjM3MjI4ODcwMjJa?cjc=xhkse4g)
+    * [Строение солнечной системы](fizika/11-klass/astronomiya/stroenie-solnechnoi-sistemy.md)
 
 ## Информатика
 
