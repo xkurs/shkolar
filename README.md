@@ -8,6 +8,8 @@ description: Предметы, классы, темы
 
 <summary>Новости</summary>
 
+[raspisanie-urokov.md](biblioteka/links/raspisanie-urokov.md "mention")
+
 [rabota-i-moshnost.md](fizika/9-klass/mekhanicheskie-yavleniya/rabota-i-moshnost.md "mention")
 
 [elektromagnitnye-kolebaniya.md](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md "mention")
@@ -15,7 +17,7 @@ description: Предметы, классы, темы
 </details>
 
 {% hint style="success" %}
-ФИЗИКА
+Физика
 {% endhint %}
 
 {% content-ref url="fizika/9-klass/" %}
@@ -31,7 +33,7 @@ description: Предметы, классы, темы
 {% endcontent-ref %}
 
 {% hint style="success" %}
-ИНФОРМАТИКА
+Информатика
 {% endhint %}
 
 {% content-ref url="informatika/python/" %}
@@ -43,7 +45,7 @@ description: Предметы, классы, темы
 {% endcontent-ref %}
 
 {% hint style="info" %}
-БИБЛИОТЕКА
+Библиотека
 {% endhint %}
 
 {% content-ref url="biblioteka/links/" %}
