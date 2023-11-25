@@ -4,19 +4,11 @@ description: Предметы, классы, темы
 
 # 📒 Планы
 
-<details>
+{% hint style="info" %}
+НОВОСТИ
+{% endhint %}
 
-<summary>НОВОСТИ</summary>
-
-[raspisanie-urokov.md](biblioteka/links/raspisanie-urokov.md "mention")
-
-### Темы:
-
-[rabota-i-moshnost.md](fizika/9-klass/mekhanicheskie-yavleniya/rabota-i-moshnost.md "mention")
-
-[elektromagnitnye-kolebaniya.md](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md "mention")
-
-</details>
+<table data-header-hidden data-full-width="false"><thead><tr><th data-type="content-ref">Актуальная тема</th><th width="155" data-type="content-ref">Класс</th></tr></thead><tbody><tr><td><a href="fizika/9-klass/mekhanicheskie-yavleniya/rabota-i-moshnost.md">rabota-i-moshnost.md</a></td><td><a href="fizika/9-klass/">9-klass</a></td></tr><tr><td><a href="fizika/10-klass/molekulyarnaya-fizika-i-termodinamika/osnovy-molekulyarno-kineticheskoi-teorii.md">osnovy-molekulyarno-kineticheskoi-teorii.md</a></td><td><a href="fizika/10-klass/">10-klass</a></td></tr><tr><td><a href="fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md">elektromagnitnye-kolebaniya.md</a></td><td><a href="fizika/11-klass/">11-klass</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 ФИЗИКА
