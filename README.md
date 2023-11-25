@@ -4,6 +4,16 @@ description: Предметы, классы, темы
 
 # 📒 Планы
 
+<details>
+
+<summary>QR</summary>
+
+![](<.gitbook/assets/image (11).png>)
+
+### [https://xkurs.gitbook.io/start/](https://xkurs.gitbook.io/start/)
+
+</details>
+
 {% hint style="success" %}
 ФИЗИКА
 {% endhint %}
@@ -15,5 +25,3 @@ description: Предметы, классы, темы
 {% endhint %}
 
 <table data-header-hidden><thead><tr><th data-type="content-ref">ИНФОРМАТИКА</th></tr></thead><tbody><tr><td><a href="informatika/python/">python</a></td></tr><tr><td><a href="informatika/kege/">kege</a></td></tr></tbody></table>
-
-{% embed url="https://www.notion.so/xkurs/ce5c63f2a46d4e639a312d723bee2d97?pvs=4&v=0f80b76164bd4d6e9d4154e897c3d492" %}
