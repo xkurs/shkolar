@@ -4,9 +4,7 @@ description: Предметы, классы, темы
 
 # 📒 Планы
 
-{% content-ref url="raspisanie-urokov.md" %}
-[raspisanie-urokov.md](raspisanie-urokov.md)
-{% endcontent-ref %}
+{% embed url="https://www.notion.so/xkurs/ce5c63f2a46d4e639a312d723bee2d97?pvs=4&v=0f80b76164bd4d6e9d4154e897c3d492" %}
 
 {% hint style="success" %}
 ФИЗИКА
@@ -18,4 +16,4 @@ description: Предметы, классы, темы
 ИНФОРМАТИКА
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th data-type="content-ref">ИНФОРМАТИКА</th></tr></thead><tbody><tr><td><a href="informatika/python/">python</a></td></tr><tr><td><a href="informatika/kege/">kege</a></td></tr><tr><td><a href="informatika/kege/youtube.md">youtube.md</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th data-type="content-ref">ИНФОРМАТИКА</th></tr></thead><tbody><tr><td><a href="informatika/python/">python</a></td></tr><tr><td><a href="informatika/kege/">kege</a></td></tr></tbody></table>
