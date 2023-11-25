@@ -2,13 +2,15 @@
 description: Предметы, классы, темы
 ---
 
-# 📒 Школа
+# 📒 Планы
 
 <details>
 
-<summary>Новости</summary>
+<summary>НОВОСТИ</summary>
 
 [raspisanie-urokov.md](biblioteka/links/raspisanie-urokov.md "mention")
+
+### Темы:
 
 [rabota-i-moshnost.md](fizika/9-klass/mekhanicheskie-yavleniya/rabota-i-moshnost.md "mention")
 
@@ -17,7 +19,7 @@ description: Предметы, классы, темы
 </details>
 
 {% hint style="success" %}
-Физика
+ФИЗИКА
 {% endhint %}
 
 {% content-ref url="fizika/9-klass/" %}
@@ -33,7 +35,7 @@ description: Предметы, классы, темы
 {% endcontent-ref %}
 
 {% hint style="success" %}
-Информатика
+ИНФОРМАТИКА
 {% endhint %}
 
 {% content-ref url="informatika/python/" %}
@@ -45,7 +47,7 @@ description: Предметы, классы, темы
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Библиотека
+БИБЛИОТЕКА
 {% endhint %}
 
 {% content-ref url="biblioteka/links/" %}
