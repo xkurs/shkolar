@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📒 Планы](README.md)
+* [🗓 Расписание уроков](raspisanie-urokov.md)
 
 ## Физика
 
@@ -42,6 +43,5 @@
 ## Библиотека
 
 * [📘 Links](biblioteka/links/README.md)
-  * [Расписание уроков](biblioteka/links/raspisanie-urokov.md)
   * [Павел ВИКТОР](https://www.youtube.com/c/pvictor54)
   * [Курсы Glide](https://xkurs.glide.page/dl/courses)

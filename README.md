@@ -4,6 +4,10 @@ description: Предметы, классы, темы
 
 # 📒 Планы
 
+{% content-ref url="raspisanie-urokov.md" %}
+[raspisanie-urokov.md](raspisanie-urokov.md)
+{% endcontent-ref %}
+
 {% hint style="success" %}
 ФИЗИКА
 {% endhint %}
@@ -14,18 +18,4 @@ description: Предметы, классы, темы
 ИНФОРМАТИКА
 {% endhint %}
 
-{% content-ref url="informatika/python/" %}
-[python](informatika/python/)
-{% endcontent-ref %}
-
-{% content-ref url="informatika/kege/" %}
-[kege](informatika/kege/)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-БИБЛИОТЕКА
-{% endhint %}
-
-{% content-ref url="biblioteka/links/" %}
-[links](biblioteka/links/)
-{% endcontent-ref %}
+<table data-header-hidden><thead><tr><th data-type="content-ref">ИНФОРМАТИКА</th></tr></thead><tbody><tr><td><a href="informatika/python/">python</a></td></tr><tr><td><a href="informatika/kege/">kege</a></td></tr><tr><td><a href="informatika/kege/youtube.md">youtube.md</a></td></tr></tbody></table>
