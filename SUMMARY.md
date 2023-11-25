@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚 Курсы](README.md)
+* [📒 Курсы](README.md)
 
 ## Физика
 
@@ -12,7 +12,7 @@
   * [3⃣ Электромагнитное поле и электромагнитные волны](fizika/9-klass/elektromagnitnoe-pole-i-elektromagnitnye-volny.md)
   * [4⃣ Световые явления](fizika/9-klass/svetovye-yavleniya.md)
   * [5⃣ Квантовые явления](fizika/9-klass/kvantovye-yavleniya.md)
-* [📒 10 класс](fizika/10-klass/README.md)
+* [📙 10 класс](fizika/10-klass/README.md)
   * [1⃣ Механика](fizika/10-klass/mekhanika/README.md)
     * [Работа и энергия](fizika/10-klass/mekhanika/rabota-i-energiya.md)
     * [Закон сохранения полной механической энергии](fizika/10-klass/mekhanika/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md)
