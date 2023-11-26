@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚 Программы](README.md)
+* [📘 Школа](README.md)
 
 ## Физика
 
@@ -41,7 +41,7 @@
 
 ## Библиотека
 
-* [📘 Links](biblioteka/links/README.md)
+* [📚 Links](biblioteka/links/README.md)
   * [Павел ВИКТОР](https://www.youtube.com/c/pvictor54)
   * [Курсы Glide](https://xkurs.glide.page/dl/courses)
   * [Расписание уроков](https://www.notion.so/xkurs/ce5c63f2a46d4e639a312d723bee2d97?v=0f80b76164bd4d6e9d4154e897c3d492\&pvs=4)
