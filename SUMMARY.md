@@ -33,8 +33,7 @@
 ## Информатика
 
 * [🐍 Python](informatika/python/README.md)
-  * [Turtle](https://xkurs.notion.site/xkurs/9f05bc90d8294b2f97fb29c72c54b660?v=5b88304bee0b4fb093133b1082a54d81)
-  * [Школа 179](https://server.179.ru/wiki/?page=Informatika/Arxiv/20\_23/9B)
+  * [🟨 Строки](informatika/python/stroki.md)
 * [💻 КЕГЭ](informatika/kege/README.md)
   * [КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
   * [YouTube](informatika/kege/youtube.md)
@@ -45,3 +44,5 @@
   * [Павел ВИКТОР](https://www.youtube.com/c/pvictor54)
   * [Курсы Glide](https://xkurs.glide.page/dl/courses)
   * [Расписание уроков](https://www.notion.so/xkurs/ce5c63f2a46d4e639a312d723bee2d97?v=0f80b76164bd4d6e9d4154e897c3d492\&pvs=4)
+  * [Turtle](https://xkurs.notion.site/xkurs/9f05bc90d8294b2f97fb29c72c54b660?v=5b88304bee0b4fb093133b1082a54d81)
+  * [Школа 179](https://server.179.ru/wiki/?page=Informatika/Arxiv/20\_23/9B)
