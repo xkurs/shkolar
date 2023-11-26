@@ -2,7 +2,7 @@
 description: Механические явления
 ---
 
-# Работа и мощность
+# 🟨 Работа и мощность
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
