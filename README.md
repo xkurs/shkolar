@@ -18,7 +18,7 @@ description: Планы уроков
 ИНФОРМАТИКА
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th data-type="content-ref">ИНФОРМАТИКА</th></tr></thead><tbody><tr><td><a href="informatika/python/">python</a></td></tr><tr><td><a href="informatika/python/stroki.md">stroki.md</a></td></tr><tr><td><a href="informatika/kege/">kege</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th data-type="content-ref">ИНФОРМАТИКА</th></tr></thead><tbody><tr><td><a href="informatika/python/">python</a></td></tr><tr><td><a href="informatika/python/vvedenie-v-programmirovanie.md">vvedenie-v-programmirovanie.md</a></td></tr><tr><td><a href="informatika/kege/">kege</a></td></tr></tbody></table>
 
 <details>
 

@@ -34,7 +34,8 @@
 ## Информатика
 
 * [🐍 Python](informatika/python/README.md)
-  * [🟨 Строки](informatika/python/stroki.md)
+  * [🟨 Введение в программирование](informatika/python/vvedenie-v-programmirovanie.md)
+  * [🟩 Строки](informatika/python/stroki.md)
 * [💻 КЕГЭ](informatika/kege/README.md)
   * [КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
   * [YouTube](informatika/kege/youtube.md)
