@@ -27,8 +27,9 @@
   * [3⃣ Основы специальной теории относительности](fizika/11-klass/osnovy-specialnoi-teorii-otnositelnosti.md)
   * [4⃣ Квантовая физика](fizika/11-klass/kvantovaya-fizika.md)
   * [🚀 Астрономия](fizika/11-klass/astronomiya/README.md)
-    * [🟨 Google Classroom - Доклады](https://classroom.google.com/c/NjM3MjI4ODcwMjJa?cjc=xhkse4g)
+    * [🟩 Google Classroom - Доклады](https://classroom.google.com/c/NjM3MjI4ODcwMjJa?cjc=xhkse4g)
     * [🟩 Строение солнечной системы](fizika/11-klass/astronomiya/stroenie-solnechnoi-sistemy.md)
+    * [🟨 Солнце и звезды](fizika/11-klass/astronomiya/solnce-i-zvezdy.md)
 
 ## Информатика
 
