@@ -1,10 +1,20 @@
 ---
-description: >-
-  Все науки делятся на естественные, неестественные, противоестественные и
-  сверхъестественные (Ландау)
+description: Планы уроков
 ---
 
 # 📘 Школа
+
+<details>
+
+<summary>QR</summary>
+
+![](<.gitbook/assets/image (11).png>)
+
+### [https://xkurs.gitbook.io/start/](https://xkurs.gitbook.io/start/)
+
+Все науки делятся на естественные, неестественные, противоестественные и сверхъестественные (Ландау)
+
+</details>
 
 {% hint style="info" %}
 ФИЗИКА
@@ -23,13 +33,3 @@ description: >-
 <table><thead><tr><th data-type="content-ref">Программирование</th></tr></thead><tbody><tr><td><a href="informatika/programmirovanie/python/">python</a></td></tr><tr><td><a href="informatika/programmirovanie/python/vvedenie-v-programmirovanie.md">vvedenie-v-programmirovanie.md</a></td></tr></tbody></table>
 
 <table><thead><tr><th data-type="content-ref">Экзамены</th></tr></thead><tbody><tr><td><a href="informatika/ekzameny/oge.md">oge.md</a></td></tr><tr><td><a href="informatika/ekzameny/kege/">kege</a></td></tr><tr><td><a href="informatika/ekzameny/kege/youtube.md">youtube.md</a></td></tr></tbody></table>
-
-<details>
-
-<summary>QR</summary>
-
-![](<.gitbook/assets/image (11).png>)
-
-### [https://xkurs.gitbook.io/start/](https://xkurs.gitbook.io/start/)
-
-</details>
