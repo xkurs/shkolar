@@ -2,5 +2,5 @@
 description: Информатика
 ---
 
-# 🐍 Python
+# 🅿 Python
 

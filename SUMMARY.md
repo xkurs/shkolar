@@ -18,6 +18,7 @@
     * [🟨 Закон сохранения полной механической энергии](fizika/10-klass/mekhanika/zakon-sokhraneniya-polnoi-mekhanicheskoi-energii.md)
   * [2⃣ Молекулярная физика и термодинамика](fizika/10-klass/molekulyarnaya-fizika-i-termodinamika/README.md)
     * [🟨 Основы молекулярно-кинетической теории](fizika/10-klass/molekulyarnaya-fizika-i-termodinamika/osnovy-molekulyarno-kineticheskoi-teorii.md)
+    * [🟨 Уравнение состояние идеального газа](fizika/10-klass/molekulyarnaya-fizika-i-termodinamika/uravnenie-sostoyanie-idealnogo-gaza.md)
   * [3⃣ Электродинамика](fizika/10-klass/elektrodinamika.md)
 * [📕 11 класс](fizika/11-klass/README.md)
   * [1⃣ Основы электродинамики (продолжение)](fizika/11-klass/osnovy-elektrodinamiki-prodolzhenie.md)
@@ -33,12 +34,15 @@
 
 ## Информатика
 
-* [🐍 Python](informatika/python/README.md)
-  * [🟨 Введение в программирование](informatika/python/vvedenie-v-programmirovanie.md)
-  * [🟨 Строки](informatika/python/stroki.md)
-* [💻 КЕГЭ](informatika/kege/README.md)
-  * [КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
-  * [YouTube](informatika/kege/youtube.md)
+* [📙 Программирование](informatika/programmirovanie/README.md)
+  * [🅿 Python](informatika/programmirovanie/python/README.md)
+    * [🟨 Строки](informatika/programmirovanie/python/stroki.md)
+    * [🟨 Введение в программирование](informatika/programmirovanie/python/vvedenie-v-programmirovanie.md)
+* [📕 Экзамены](informatika/ekzameny/README.md)
+  * [9⃣ ОГЭ](informatika/ekzameny/oge.md)
+  * [⏸ КЕГЭ](informatika/ekzameny/kege/README.md)
+    * [🟥 КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
+    * [🟥 YouTube](informatika/ekzameny/kege/youtube.md)
 
 ## Библиотека
 

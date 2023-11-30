@@ -8,4 +8,4 @@ description: Молекулярная физика и термодинамика
 
 {% embed url="https://youtu.be/c_CnPH8vVBE?list=PL1Us50cZo25l54U0hyyd0GQQ3IPhGQ2uF" %}
 
-{% embed url="https://youtu.be/ZBJrZGI5RDw?list=PL1Us50cZo25l54U0hyyd0GQQ3IPhGQ2uF" %}
+{% embed url="https://youtu.be/mD1YBgdkoN8" %}
