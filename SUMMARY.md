@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📘 Школа](README.md)
+  * [🌐 QR](shkola/qr.md)
 
 ## Физика
 
