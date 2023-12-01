@@ -1,13 +1,14 @@
 # Table of contents
 
-* [📘 Школа](README.md)
-  * [🌐 QR](shkola/qr.md)
+* [📘 Уроки](README.md)
+  * [🌐 QR](uroki/qr.md)
 
 ## Физика
 
 * [📗 9 класс](fizika/9-klass/README.md)
   * [1⃣ Механические явления](fizika/9-klass/mekhanicheskie-yavleniya/README.md)
     * [🟩 Криволинейное и вращательное движение](fizika/9-klass/mekhanicheskie-yavleniya/krivolineinoe-i-vrashatelnoe-dvizhenie.md)
+    * [🟩 Закон сохранения импульса](fizika/9-klass/mekhanicheskie-yavleniya/zakon-sokhraneniya-impulsa.md)
     * [🟩 Работа, мощность, энергия](fizika/9-klass/mekhanicheskie-yavleniya/rabota-moshnost-energiya.md)
   * [2⃣ Механические колебания и волны](fizika/9-klass/mekhanicheskie-kolebaniya-i-volny.md)
   * [3⃣ Электромагнитное поле и электромагнитные волны](fizika/9-klass/elektromagnitnoe-pole-i-elektromagnitnye-volny.md)
