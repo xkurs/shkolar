@@ -38,11 +38,14 @@
 ## Информатика
 
 * [📙 Программирование](informatika/programmirovanie/README.md)
-  * [🅿 Python](informatika/programmirovanie/python/README.md)
+  * [🔰 Scratch](informatika/programmirovanie/scratch.md)
+  * [🐢 Turtle](informatika/programmirovanie/turtle.md)
+  * [🐍 Python](informatika/programmirovanie/python/README.md)
     * [🟢 Строки](informatika/programmirovanie/python/stroki.md)
     * [🟢 Введение в программирование](informatika/programmirovanie/python/vvedenie-v-programmirovanie.md)
 * [📕 Экзамены](informatika/ekzameny/README.md)
-  * [9⃣ ОГЭ](informatika/ekzameny/oge.md)
+  * [9⃣ ОГЭ](informatika/ekzameny/oge/README.md)
+    * [🟢 15.1 (Кумир)](informatika/ekzameny/oge/15.1-kumir.md)
   * [⏸ КЕГЭ](informatika/ekzameny/kege/README.md)
     * [🟢 КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
     * [🟢 YouTube](informatika/ekzameny/kege/youtube.md)

@@ -2,5 +2,5 @@
 description: Программирование
 ---
 
-# 🐍 Python
+# 🔰 Scratch
 
