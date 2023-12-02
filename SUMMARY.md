@@ -1,11 +1,11 @@
 # Table of contents
 
-* [📘 Уроки](README.md)
+* [📗 Уроки](README.md)
   * [🌐 QR](uroki/qr.md)
 
 ## Физика
 
-* [📗 9 класс](fizika/9-klass/README.md)
+* [📘 9 класс](fizika/9-klass/README.md)
   * [1⃣ Механические явления](fizika/9-klass/mekhanicheskie-yavleniya/README.md)
     * [🟩 Криволинейное и вращательное движение](fizika/9-klass/mekhanicheskie-yavleniya/krivolineinoe-i-vrashatelnoe-dvizhenie.md)
     * [🟩 Закон сохранения импульса](fizika/9-klass/mekhanicheskie-yavleniya/zakon-sokhraneniya-impulsa.md)
@@ -26,7 +26,8 @@
   * [1⃣ Основы электродинамики (продолжение)](fizika/11-klass/osnovy-elektrodinamiki-prodolzhenie.md)
   * [2⃣ Колебания и волны](fizika/11-klass/kolebaniya-i-volny/README.md)
     * [🟩 Механические колебания](fizika/11-klass/kolebaniya-i-volny/mekhanicheskie-kolebaniya.md)
-    * [🟩 Электромагнитные колебания](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md)
+    * [🟢 Электромагнитные колебания](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md)
+    * [🟢 Механические волны](fizika/11-klass/kolebaniya-i-volny/mekhanicheskie-volny.md)
   * [3⃣ Основы специальной теории относительности](fizika/11-klass/osnovy-specialnoi-teorii-otnositelnosti.md)
   * [4⃣ Квантовая физика](fizika/11-klass/kvantovaya-fizika.md)
   * [🚀 Астрономия](fizika/11-klass/astronomiya/README.md)
