@@ -1,4 +1,4 @@
-# 🟩 Принятие решений
+# 📗 Принятие решений
 
 <figure><img src="../../../.gitbook/assets/Python Сборник упражнений_page-0044.jpg" alt=""><figcaption></figcaption></figure>
 

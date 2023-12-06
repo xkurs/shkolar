@@ -1,5 +1,5 @@
 ---
-description: Решение задач
+description: Актуальные темы
 ---
 
 # 📗 Уроки
@@ -20,4 +20,4 @@ description: Решение задач
 
 <table><thead><tr><th data-type="content-ref">Программирование</th></tr></thead><tbody><tr><td><a href="informatika/programmirovanie/python/">python</a></td></tr><tr><td><a href="informatika/programmirovanie/python/vvedenie-v-programmirovanie.md">vvedenie-v-programmirovanie.md</a></td></tr><tr><td><a href="informatika/programmirovanie/python/prinyatie-reshenii.md">prinyatie-reshenii.md</a></td></tr></tbody></table>
 
-<table><thead><tr><th data-type="content-ref">Экзамены</th></tr></thead><tbody><tr><td><a href="informatika/ekzameny/oge/">oge</a></td></tr><tr><td><a href="informatika/ekzameny/oge/15.1-kumir.md">15.1-kumir.md</a></td></tr><tr><td><a href="informatika/ekzameny/kege/">kege</a></td></tr></tbody></table>
+<table><thead><tr><th data-type="content-ref">Экзамены</th></tr></thead><tbody><tr><td><a href="informatika/ekzameny/oge/">oge</a></td></tr><tr><td><a href="informatika/ekzameny/kege/">kege</a></td></tr></tbody></table>
