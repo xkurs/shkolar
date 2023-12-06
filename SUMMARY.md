@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📗 Уроки](README.md)
-  * [🌐 QR](uroki/qr.md)
+* [📗 Что здесь?](README.md)
+  * [🌐 QR](chto-zdes/qr.md)
 
 ## Физика
 
