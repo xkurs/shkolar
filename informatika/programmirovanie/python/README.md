@@ -19,5 +19,5 @@ layout:
     visible: true
 ---
 
-# 🐍 Python
+# 3⃣ Python
 
