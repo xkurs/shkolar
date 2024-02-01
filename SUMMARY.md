@@ -30,6 +30,7 @@
     * [📗 Электромагнитные колебания](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-kolebaniya.md)
     * [📗 Механические волны](fizika/11-klass/kolebaniya-i-volny/mekhanicheskie-volny.md)
     * [📗 Электромагнитные волны](fizika/11-klass/kolebaniya-i-volny/elektromagnitnye-volny.md)
+    * [📗 Оптика. Линзы](fizika/11-klass/kolebaniya-i-volny/optika.-linzy.md)
   * [3⃣ Основы специальной теории относительности](fizika/11-klass/osnovy-specialnoi-teorii-otnositelnosti.md)
   * [4⃣ Квантовая физика](fizika/11-klass/kvantovaya-fizika.md)
   * [🚀 Астрономия](fizika/11-klass/astronomiya/README.md)
