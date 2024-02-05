@@ -44,9 +44,9 @@
   * [1⃣ Scratch](informatika/7-8-klassy/scratch.md)
 * [📘 9 класс](informatika/9-klass/README.md)
   * [2⃣ Кумир](informatika/9-klass/kumir.md)
-  * [9⃣ ОГЭ](informatika/9-klass/oge/README.md)
-    * [🔗 МКП](https://disk.yandex.ru/d/maJtUXEwDQDaLQ)
-    * [📗 15.1](informatika/9-klass/oge/15.1.md)
+  * [9⃣ Подготовка к ОГЭ](informatika/9-klass/podgotovka-k-oge/README.md)
+    * [🔗 Консультации МКП](https://disk.yandex.ru/d/maJtUXEwDQDaLQ)
+    * [📗 15.1](informatika/9-klass/podgotovka-k-oge/15.1.md)
 * [📙 10 класс](informatika/10-klass/README.md)
   * [3⃣ Python](informatika/10-klass/python/README.md)
     * [🐢 Turtle](informatika/10-klass/python/turtle.md)
@@ -56,9 +56,9 @@
       * [📗 Принятие решений](informatika/10-klass/python/uprazhneniya/prinyatie-reshenii.md)
       * [📗 Повторения](informatika/10-klass/python/uprazhneniya/povtoreniya.md)
 * [📕 11 класс](informatika/11-klass/README.md)
-  * [⏸ КЕГЭ](informatika/11-klass/kege/README.md)
+  * [⏸ Подготовка к КЕГЭ](informatika/11-klass/podgotovka-k-kege/README.md)
     * [🔗 КЕГЭ-2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
-    * [📗 13](informatika/11-klass/kege/13.md)
+    * [📗 13](informatika/11-klass/podgotovka-k-kege/13.md)
 
 ## Библиотека
 

@@ -23,6 +23,6 @@ description: >-
 ИНФОРМАТИКА
 {% endhint %}
 
-<table><thead><tr><th data-type="content-ref">9 класс</th></tr></thead><tbody><tr><td><a href="informatika/9-klass/oge/">oge</a></td></tr></tbody></table>
+<table><thead><tr><th data-type="content-ref">9 класс</th></tr></thead><tbody><tr><td><a href="informatika/9-klass/podgotovka-k-oge/">podgotovka-k-oge</a></td></tr></tbody></table>
 
-<table><thead><tr><th data-type="content-ref">11 класс</th></tr></thead><tbody><tr><td><a href="informatika/11-klass/kege/">kege</a></td></tr></tbody></table>
+<table><thead><tr><th data-type="content-ref">11 класс</th></tr></thead><tbody><tr><td><a href="informatika/11-klass/podgotovka-k-kege/">podgotovka-k-kege</a></td></tr></tbody></table>
