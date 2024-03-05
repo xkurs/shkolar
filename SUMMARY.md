@@ -64,7 +64,7 @@
 ## Библиотека
 
 * [📚 Links](biblioteka/links/README.md)
-  * [🔗 Павел ВИКТОР](https://www.youtube.com/c/pvictor54)
+  * [📕 Павел ВИКТОР](biblioteka/links/pavel-viktor.md)
   * [🔗 Курсы Glide](https://xkurs.glide.page/dl/courses)
   * [🔗 Расписание уроков](https://www.notion.so/xkurs/ce5c63f2a46d4e639a312d723bee2d97?v=0f80b76164bd4d6e9d4154e897c3d492\&pvs=4)
   * [🔗 Turtle](https://xkurs.notion.site/xkurs/9f05bc90d8294b2f97fb29c72c54b660?v=5b88304bee0b4fb093133b1082a54d81)
