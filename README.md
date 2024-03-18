@@ -9,7 +9,7 @@ description: >-
 
 
 
-{% hint style="info" %}
+{% hint style="success" %}
 ФИЗИКА
 {% endhint %}
 
