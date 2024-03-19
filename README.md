@@ -19,7 +19,7 @@ description: >-
 
 <table><thead><tr><th data-type="content-ref">11 класс</th></tr></thead><tbody><tr><td><a href="fizika/11-klass/kolebaniya-i-volny/">kolebaniya-i-volny</a></td></tr><tr><td><a href="fizika/11-klass/kolebaniya-i-volny/optika.-linzy.md">optika.-linzy.md</a></td></tr></tbody></table>
 
-{% hint style="info" %}
+{% hint style="success" %}
 ИНФОРМАТИКА
 {% endhint %}
 
