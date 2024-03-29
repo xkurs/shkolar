@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📗 Экскурс](README.md)
-  * [🌐 QR](ekskurs/qr.md)
+* [📗 Экскурс в школу](README.md)
+  * [🌐 QR](ekskurs-v-shkolu/qr.md)
 
 ## Физика
 
