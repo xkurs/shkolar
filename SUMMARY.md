@@ -42,16 +42,18 @@
 
 ## Информатика
 
-* [📗 7 - 8 классы](informatika/7-8-klassy/README.md)
-  * [1️⃣ Scratch](informatika/7-8-klassy/scratch.md)
+* [📔 7 класс](informatika/7-klass/README.md)
+  * [1️⃣ Scratch](informatika/7-klass/scratch.md)
+* [📒 8 класс](informatika/8-klass/README.md)
+  * [🐢 Turtle](informatika/8-klass/turtle.md)
 * [📘 9 класс](informatika/9-klass/README.md)
   * [2️⃣ Кумир](informatika/9-klass/kumir.md)
   * [9️⃣ Подготовка к ОГЭ](informatika/9-klass/podgotovka-k-oge/README.md)
     * [📗 МКП](informatika/9-klass/podgotovka-k-oge/mkp.md)
     * [📗 15.1](informatika/9-klass/podgotovka-k-oge/15.1.md)
 * [📙 10 класс](informatika/10-klass/README.md)
+  * [1️⃣ Tkinter](informatika/10-klass/tkinter.md)
   * [3️⃣ Python](informatika/10-klass/python/README.md)
-    * [🐢 Turtle](informatika/10-klass/python/turtle.md)
     * [🐍 Упражнения](informatika/10-klass/python/uprazhneniya/README.md)
       * [📗 Строки](informatika/10-klass/python/uprazhneniya/stroki.md)
       * [📗 Введение в программирование](informatika/10-klass/python/uprazhneniya/vvedenie-v-programmirovanie.md)
