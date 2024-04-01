@@ -10,7 +10,7 @@ description: Актуальные темы по физике и информат
 ФИЗИКА
 {% endhint %}
 
-<table data-full-width="false"><thead><tr><th data-type="content-ref">9 класс</th></tr></thead><tbody><tr><td><a href="fizika/9-klass/mekhanicheskie-kolebaniya-i-volny/">mekhanicheskie-kolebaniya-i-volny</a></td></tr><tr><td><a href="fizika/9-klass/mekhanicheskie-kolebaniya-i-volny/zvuk.md">zvuk.md</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th data-type="content-ref">9 класс</th></tr></thead><tbody><tr><td><a href="fizika/9-klass/mekhanicheskie-kolebaniya-i-volny/">mekhanicheskie-kolebaniya-i-volny</a></td></tr><tr><td><a href="fizika/9-klass/kvantovye-yavleniya/stroenie-atoma-i-atomnogo-yadra.md">stroenie-atoma-i-atomnogo-yadra.md</a></td></tr></tbody></table>
 
 <table><thead><tr><th data-type="content-ref">10 класс</th></tr></thead><tbody><tr><td><a href="fizika/10-klass/elektrodinamika/">elektrodinamika</a></td></tr><tr><td><a href="fizika/10-klass/elektrodinamika/elektroe-mkost.-kondensator.md">elektroe-mkost.-kondensator.md</a></td></tr></tbody></table>
 
