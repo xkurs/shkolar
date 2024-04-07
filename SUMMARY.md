@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📗 Gitbook](README.md)
-  * [🌐 QR](gitbook/qr.md)
+* [📗 Содержание gitbook](README.md)
+  * [🌐 QR](soderzhanie-gitbook/qr.md)
 
 ## Физика
 
