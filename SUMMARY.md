@@ -61,6 +61,7 @@
   * [2️⃣ Библиотека Tkinter](informatika/10-klass/biblioteka-tkinter/README.md)
     * [📗 Руководство по Tkinter](informatika/10-klass/biblioteka-tkinter/rukovodstvo-po-tkinter.md)
     * [📗 Курс по Tkinter](informatika/10-klass/biblioteka-tkinter/kurs-po-tkinter.md)
+    * [📗 Позиционирование элементов в Tkinter](informatika/10-klass/biblioteka-tkinter/pozicionirovanie-elementov-v-tkinter.md)
 * [📕 11 класс](informatika/11-klass/README.md)
   * [⏸️ Подготовка к КЕГЭ](informatika/11-klass/podgotovka-k-kege/README.md)
     * [📗 КЕГЭ-2021](informatika/11-klass/podgotovka-k-kege/kege-2021.md)
