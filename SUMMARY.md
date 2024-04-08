@@ -25,6 +25,7 @@
     * [📗 Уравнение состояние идеального газа](fizika/10-klass/molekulyarnaya-fizika-i-termodinamika/uravnenie-sostoyanie-idealnogo-gaza.md)
   * [3️⃣ Электродинамика](fizika/10-klass/elektrodinamika/README.md)
     * [📗 Электроёмкость. Конденсатор](fizika/10-klass/elektrodinamika/elektroe-mkost.-kondensator.md)
+  * [📗 Переводной экзамен](fizika/10-klass/perevodnoi-ekzamen.md)
 * [📕 11 класс](fizika/11-klass/README.md)
   * [1️⃣ Основы электродинамики (продолжение)](fizika/11-klass/osnovy-elektrodinamiki-prodolzhenie.md)
   * [2️⃣ Колебания и волны](fizika/11-klass/kolebaniya-i-volny/README.md)
