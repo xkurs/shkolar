@@ -46,7 +46,7 @@
 * [📔 7 класс](informatika/7-klass/README.md)
   * [1️⃣ Scratch](informatika/7-klass/scratch.md)
 * [📒 8 класс](informatika/8-klass/README.md)
-  * [🐢 Turtle](informatika/8-klass/turtle.md)
+  * [🐢 Библиотека Turtle](informatika/8-klass/biblioteka-turtle.md)
 * [📘 9 класс](informatika/9-klass/README.md)
   * [2️⃣ Кумир](informatika/9-klass/kumir.md)
   * [9️⃣ Подготовка к ОГЭ](informatika/9-klass/podgotovka-k-oge/README.md)
