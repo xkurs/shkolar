@@ -16,6 +16,7 @@
   * [4️⃣ Световые явления](fizika/9-klass/svetovye-yavleniya.md)
   * [5️⃣ Квантовые явления](fizika/9-klass/kvantovye-yavleniya/README.md)
     * [📗 Строение атома и атомного ядра](fizika/9-klass/kvantovye-yavleniya/stroenie-atoma-i-atomnogo-yadra.md)
+    * [📗 Дефект массы и энергия связи](fizika/9-klass/kvantovye-yavleniya/defekt-massy-i-energiya-svyazi.md)
 * [📙 10 класс](fizika/10-klass/README.md)
   * [1️⃣ Механика](fizika/10-klass/mekhanika/README.md)
     * [📗 Работа и энергия](fizika/10-klass/mekhanika/rabota-i-energiya.md)
