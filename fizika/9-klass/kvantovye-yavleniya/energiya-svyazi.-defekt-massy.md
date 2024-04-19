@@ -4,7 +4,9 @@ description: Квантовые явления
 
 # 📗 Энергия связи. Дефект массы
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Состав атомного ядра. Энергия связи</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Закон радиоактивного распада</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Справочный материал</p></figcaption></figure>
 
