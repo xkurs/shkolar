@@ -48,6 +48,7 @@
 * [📔 7 класс](informatika/7-klass/README.md)
   * [1️⃣ Scratch](informatika/7-klass/scratch.md)
 * [📒 8 класс](informatika/8-klass/README.md)
+  * [Системы счисления](informatika/8-klass/sistemy-schisleniya.md)
   * [🐢 Библиотека Turtle](informatika/8-klass/turtle.md)
 * [📘 9 класс](informatika/9-klass/README.md)
   * [2️⃣ Кумир](informatika/9-klass/kumir.md)
