@@ -6,4 +6,4 @@ description: >-
 
 # 🌐 QR
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><a href="https://xkurs.gitbook.io/start/">https://xkurs.gitbook.io/start/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p><a href="https://xkurs.gitbook.io/start/">https://xkurs.gitbook.io/start/</a></p></figcaption></figure>

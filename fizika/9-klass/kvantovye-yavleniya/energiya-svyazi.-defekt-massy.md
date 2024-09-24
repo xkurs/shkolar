@@ -8,6 +8,6 @@ description: Квантовые явления
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Справочный материал</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Справочный материал</p></figcaption></figure>
 
 #### Задача 3. Определить энергию связи для Задачи 2.
